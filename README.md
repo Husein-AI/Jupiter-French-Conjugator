@@ -22,15 +22,9 @@
 
 ---
 
-## 🚀 Why Jupiter?
-
-I combined my passion for **languages** and **programming** to create a practical tool that can help learners, teachers, and developers. The name **Jupiter** reflects the vast possibilities of learning — just like space 🚀
-
----
-
 ## 🛠 How to Run
 
 1. Install Python 3
 2. Install dependencies:
    ```bash
-   python install kivy
+   pip install kivy
