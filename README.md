@@ -33,4 +33,4 @@ I combined my passion for **languages** and **programming** to create a practica
 1. Install Python 3
 2. Install dependencies:
    ```bash
-   pip install kivy
+   python Jupiter.py
