@@ -2,7 +2,7 @@
 
 **Jupiter** is a desktop application built using **Python** and **Kivy** that allows users to conjugate **French verbs** across **9 different tenses** using a simple and clean graphical interface.
 
-![cover](./cover.png)
+![cover](./cover.jpg)
 
 ---
 
@@ -18,7 +18,8 @@
 
 ## 📸 Screenshots
 
-![screenshot](./screenshot.png)
+![screenshot 1](./sc1.jpg)
+![screenshot 2](./sc2.jpg)
 
 ---
 
